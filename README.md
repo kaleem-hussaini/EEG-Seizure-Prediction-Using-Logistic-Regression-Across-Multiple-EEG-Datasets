@@ -1,3 +1,4 @@
+## Report latex link: https://www.overleaf.com/read/gjzsgnbqrppt#100751
 # EEG Seizure Prediction Using Logistic Regression
 
 A comparative biomedical machine learning project for EEG seizure prediction across multiple EEG datasets using Logistic Regression, regularization techniques, PCA dimensionality reduction, and imbalance handling.
