@@ -296,11 +296,11 @@ This project demonstrates that:
 
 # Author
 
-Your Name
+Kaleem Hussaini
 
-Department of Computer Science
+Department of Data Science
 
-Your University
+Institute of Mangement Sciences Peshawar
 
 ---
 
